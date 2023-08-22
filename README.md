@@ -52,6 +52,10 @@ Saída:
 
 O programa possui testes automatizados implementados. Se quiser testar execute o seguinte comando:
 
-```console
-$ gradle test
+```shell
+## para Linux/Mac
+$ ./gradlew test 
+
+## para Windows
+$ ./gradlew.bat test 
 ```
