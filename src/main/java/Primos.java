@@ -8,6 +8,7 @@ public class Primos {
         }
         int qnt = Integer.parseInt(args[0]); //Converte para número a entrada
         //TODO imprimir N primos
+        System.out.println("1");
 
     }
 
